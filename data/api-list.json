@@ -1,0 +1,7 @@
+{
+  "getLtisByCourse": {
+    "endpoint": "/webservice/rest/server.php",
+    "wsfunction": "mod_lti_get_ltis_by_courses"
+  }
+
+}
